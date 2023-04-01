@@ -1,0 +1,6 @@
+NumPy
+pandas
+SKLearn
+Flask
+Werkzeug
+flask-session
